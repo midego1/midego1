@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @midego
 - 👀 I’m interested in coding for Microsoft Business Central
-- 🌱 I’m currently in the process of buying as foldable electric fatbike.
+- 🌱 I’m currently in the process of buying an RV.
 - 💞️ I’m looking to collaborate on a long term, remote focused, future minded freelance job
 - 📫 How to reach me 
   - Whatsapp
