@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @midego
-- 👀 I’m interested in coding for Microsoft Business Central
-- 🌱 I’m currently in the process of buying an RV.
-- 💞️ I’m looking to collaborate on a long term, remote focused, future minded freelance job
-- 📫 How to reach me 
-  - Whatsapp
-  - Linkedin
-  - Twitter
-  - Instagram
+Dutch guy travelling the neighbourhood. Python & CISO learner, eager for part-time remote roles in Software Dev/AI. Passionate about LLMs. Open to work.
 
 <!---
 midego1/midego1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
